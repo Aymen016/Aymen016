@@ -60,7 +60,7 @@ I'm passionate about building intelligent applications that make life easier and
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aymen016)
-- 💌 Email: [aymen.dev.contact@gmail.com](mailto:ayemenbaig26@gmail.com)
+- 💌 Email: [ayemenbaig26@gmail.com](mailto:ayemenbaig26@gmail.com)
 
 ---
 
