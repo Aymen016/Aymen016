@@ -1,3 +1,5 @@
+
+
 # 👋 Hi there, I'm Aymen Baig
 
 ## 💻 Software Engineer | AI Enthusiast | Full-Stack Developer
@@ -39,12 +41,15 @@ I'm passionate about building intelligent applications that make life easier and
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aymen016&show_icons=true&theme=radical" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aymen016&theme=radical" width="47%"/>
+
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aymen016&layout=compact&theme=radical" width="47%"/>
 </p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=anasengence&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
@@ -54,6 +59,11 @@ I'm passionate about building intelligent applications that make life easier and
 - CI/CD pipelines with GitHub Actions  
 - Secure backend development  
 - Real-time APIs and WebSocket integrations
+
+---
+
+# 💻 Tech Stack:
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/python-F2C811?style=for-the-badge&logo=python&logoColor=black) 
 
 ---
 
