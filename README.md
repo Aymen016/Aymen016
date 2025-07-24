@@ -20,6 +20,9 @@ I'm passionate about building intelligent applications that make life easier and
 
 ## 📌 Highlighted Projects
 
+### 🤟 [Gesteroic](https://github.com/Aymen016/Gesteroic)
+> An e-learning platform that helps the deaf community learn Pakistan Sign Language(PSL) through lectures.
+
 ### 🩺 [Medical Chatbot](https://github.com/Aymen016/Medical-Chatbot)
 > AI-powered assistant that helps users get medical info using semantic vector search (Pinecone + NLP).
 
