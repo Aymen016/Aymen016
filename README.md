@@ -14,7 +14,7 @@ I'm passionate about building intelligent applications that make life easier and
 - ⚙️ **Frameworks:** Flask | FastAPI | Bootstrap  
 - 🧠 **AI/ML Tools:** OpenCV | Pinecone | Scikit-learn | TensorFlow  
 - 📊 **Data Analysis:** Power BI | Pandas | NumPy  
-- 🌐 **Other Tools:** Git | MySQL | VS Code | Postman | DBVisualizer
+- 🌐 **Other Tools:** Git | MySQL | VS Code | DBVisualizer
 
 ---
 
