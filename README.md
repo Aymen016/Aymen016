@@ -32,6 +32,9 @@ I'm passionate about building intelligent applications that make life easier and
 ### 🍽️ [Online Food Ordering System](https://github.com/Aymen016/Online-Food-Ordering-System)
 > A full-featured PHP-based platform for browsing, ordering, and managing food delivery.
 
+### 🌟 [MiniSocial](https://github.com/Aymen016/MiniSocial)
+> A Facebook-inspired social platform where users can post, react, comment, and connect using a sleek Flask + MongoDB setup.
+
 ### 🎓 [Certificate Generator](https://github.com/Aymen016/Certificate-Generator)
 > Flask application to automate certificate creation and downloads from input lists.
 
