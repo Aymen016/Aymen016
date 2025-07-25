@@ -77,6 +77,12 @@ I'm passionate about building intelligent applications that make life easier and
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aymen016)
 - 💌 Email: [ayemenbaig26@gmail.com](mailto:ayemenbaig26@gmail.com)
+---
+
+### 🏅 HackerRank
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank)](https://www.hackerrank.com/profile/aymen_b)
+
 
 ---
 
