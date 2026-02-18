@@ -43,22 +43,6 @@ I'm passionate about building intelligent applications that make life easier and
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aymen016&show_icons=true&theme=radical" width="47%"/>
-
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aymen016&layout=compact&theme=radical" width="47%"/>
-</p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anasengence&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 ## 🌱 Currently Learning
 
 - Advanced LLM-based prompt engineering  
