@@ -12,7 +12,7 @@ I'm passionate about building intelligent applications that make life easier and
 
 - 👨‍💻 **Languages:** Python | JavaScript | PHP | Java | HTML/CSS  
 - ⚙️ **Frameworks:** Flask | FastAPI | Bootstrap  
-- 🧠 **AI/ML Tools:** OpenCV | Pinecone | Scikit-learn | TensorFlow  
+- 🧠 **AI/ML Tools:** OpenCV | Scikit-learn | TensorFlow  
 - 📊 **Data Analysis:** Power BI | Pandas | NumPy  
 - 🌐 **Other Tools:** Git | MySQL | VS Code | DBVisualizer
 
