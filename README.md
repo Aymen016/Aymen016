@@ -41,6 +41,7 @@ I'm passionate about building intelligent applications that make life easier and
 ### 📈 [Booking Trends Dashboard](https://github.com/Aymen016/Booking-Trends-Dashboard)
 > Interactive Power BI report analyzing hotel booking patterns and customer behavior.
 
+### - Numerical linear algebra and optimization — [numerical-least-squares](https://github.com/Aymen016/numerical-least-squares)
 ---
 
 ## 🌱 Currently Learning
