@@ -1,75 +1,64 @@
+[Uploading github-profile-readme.md…]()
+# Hi, I'm Aymen Baig 👋
 
+**I build AI-powered tools that help businesses search, understand, and act on their own data** — chatbots, semantic search, and document intelligence systems, backed by solid full-stack engineering underneath.
 
-# 👋 Hi there, I'm Aymen Baig
-
-## 💻 Software Engineer | AI Enthusiast | Full-Stack Developer
-
-I'm passionate about building intelligent applications that make life easier and smarter. From backend development to machine learning and user-friendly interfaces, I love creating complete solutions.
-
----
-
-## 🔧 Tech Stack & Interests
-
-- 👨‍💻 **Languages:** Python | JavaScript | PHP | Java | HTML/CSS  
-- ⚙️ **Frameworks:** Flask | FastAPI | Bootstrap  
-- 🧠 **AI/ML Tools:** OpenCV | Scikit-learn | TensorFlow  
-- 📊 **Data Analysis:** Power BI | Pandas | NumPy  
-- 🌐 **Other Tools:** Git | MySQL | VS Code | DBVisualizer
+📍 Based in Pakistan · Open to freelance & contract work
+💼 [LinkedIn](https://www.linkedin.com/in/aymen016) · 📧 ayemenbaig26@gmail.com
 
 ---
 
-## 📌 Highlighted Projects
+## What I Do
 
-### 🤟 [Gesteroic](https://github.com/Aymen016/Gesteroic)
-> An e-learning platform that helps the deaf community learn Pakistan Sign Language(PSL) through lectures.
+I work across the full stack, but the throughline is **turning unstructured or messy data into something people can actually use** — whether that's a chatbot answering questions from a document set, a dashboard surfacing trends from raw data, or a backend that ties a bunch of moving parts together reliably.
+
+- 🤖 **AI & LLM applications** — RAG systems, semantic search, chatbots grounded in real data (not just prompting a model and hoping)
+- 🔧 **Full-stack development** — Flask, FastAPI, and clean backend architecture
+- 📊 **Data analysis & dashboards** — turning raw operational data into decisions
+- 🧩 **Practical engineering** — I care more about whether something works reliably on real data than whether the demo looks flashy
+
+---
+
+## Featured Projects
 
 ### 🩺 [Medical Chatbot](https://github.com/Aymen016/Medical-Chatbot)
-> AI-powered assistant that helps users get medical info using semantic vector search (Pinecone + NLP).
+AI assistant that answers medical questions using semantic vector search over a document knowledge base (Pinecone + NLP). Built to retrieve relevant information rather than rely on the model's raw memory — grounded answers, not guesses.
 
-### 🧠 [Emotion Recognition](https://github.com/Aymen016/Emotion-Recognition-Using-Face-Detection)
-> Real-time facial emotion detection using OpenCV and deep learning.
-
-### 🍽️ [Online Food Ordering System](https://github.com/Aymen016/Online-Food-Ordering-System)
-> A full-featured PHP-based platform for browsing, ordering, and managing food delivery.
-
-### 🌟 [MiniSocial](https://github.com/Aymen016/MiniSocial)
-> A Facebook-inspired social platform where users can post, react, comment, and connect using a sleek Flask + MongoDB setup.
-
-### 🎓 [Certificate Generator](https://github.com/Aymen016/Certificate-Generator)
-> Flask application to automate certificate creation and downloads from input lists.
+### 🧠 [RAG Document Search System](#) *(in progress)*
+A chat interface for querying messy real-world technical documentation — mixed PDFs, markdown, and wikis — with source citations on every answer and a custom evaluation suite to measure retrieval and answer accuracy.
 
 ### 📈 [Booking Trends Dashboard](https://github.com/Aymen016/Booking-Trends-Dashboard)
-> Interactive Power BI report analyzing hotel booking patterns and customer behavior.
+Interactive Power BI dashboard analyzing hotel booking patterns, cancellations, and guest behavior from raw operational data — Python + Pandas for the data pipeline underneath.
 
-### - Numerical linear algebra and optimization — [numerical-least-squares](https://github.com/Aymen016/numerical-least-squares)
----
+### 🎬 [Film Recommendation Engine](https://github.com/Aymen016/Film-recommendation-engine)
+A recommendation system with a working backend, built to surface personalized results from user preference data.
 
-## 🌱 Currently Learning
-
-- Advanced LLM-based prompt engineering  
-- CI/CD pipelines with GitHub Actions  
-- Secure backend development  
-- Real-time APIs and WebSocket integrations
+### 🤟 [Gesteroic](https://github.com/Aymen016/Gesteroic)
+E-learning platform teaching Pakistan Sign Language through video lectures, quizzes, and progress tracking — full product build, not just a script.
 
 ---
 
-# 💻 Tech Stack:
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)![Python](https://img.shields.io/badge/Python-%234ea94b.svg?style=for-the-badge&logo=python&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+## Tech Stack
 
-
----
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/aymen016)
-- 💌 Email: [ayemenbaig26@gmail.com](mailto:ayemenbaig26@gmail.com)
----
-
-### 🏅 HackerRank
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank)](https://www.hackerrank.com/profile/aymen_b)
-
+**Languages:** Python · JavaScript · PHP · Java
+**AI/ML:** Pinecone · Scikit-learn · TensorFlow · OpenCV · LLM prompt engineering
+**Backend:** Flask · FastAPI
+**Data:** Pandas · NumPy · Power BI
+**Other:** Git · MySQL · MongoDB
 
 ---
 
-⭐ If you find my work useful, consider giving a ⭐ to the repo or following me. Always open to feedback and collaboration!
+## Currently Learning
+
+- Advanced RAG architecture & retrieval evaluation
+- Agentic workflows and tool-calling with LLMs
+- CI/CD pipelines with GitHub Actions
+- Real-time APIs & WebSocket integrations
+
+---
+
+## Let's Work Together
+
+If you've got messy data, documents, or workflows that need an AI layer on top — I'd like to hear about it. Open to freelance projects and collaborations.
+
+⭐ If any of this is useful to you, a star or a follow is appreciated.
