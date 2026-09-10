@@ -1,4 +1,3 @@
-[Uploading github-profile-readme.md…]()
 # Hi, I'm Aymen Baig 👋
 
 **I build AI-powered tools that help businesses search, understand, and act on their own data** — chatbots, semantic search, and document intelligence systems, backed by solid full-stack engineering underneath.
