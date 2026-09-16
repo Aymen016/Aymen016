@@ -23,7 +23,7 @@ I work across the full stack, but the throughline is **turning unstructured or m
 ### 🩺 [Medical Chatbot](https://github.com/Aymen016/Medical-Chatbot)
 AI assistant that answers medical questions using semantic vector search over a document knowledge base (Pinecone + NLP). Built to retrieve relevant information rather than rely on the model's raw memory — grounded answers, not guesses.
 
-### 🧠 [RAG Document Search System](#) *(in progress)*
+### 🧠 [RAG Document Search System](https://github.com/Aymen016/Rag-Document-Search-System) 
 A chat interface for querying messy real-world technical documentation — mixed PDFs, markdown, and wikis — with source citations on every answer and a custom evaluation suite to measure retrieval and answer accuracy.
 
 ### 📈 [Booking Trends Dashboard](https://github.com/Aymen016/Booking-Trends-Dashboard)
