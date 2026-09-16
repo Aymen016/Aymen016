@@ -46,6 +46,19 @@ E-learning platform teaching Pakistan Sign Language through video lectures, quiz
 **Other:** Git · MySQL · MongoDB
 
 ---
+## 🏆 Hackathons & Achievements
+
+[![Devpost](https://img.shields.io/badge/Devpost-ayemenbaig26-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/ayemenbaig26)
+
+- **3 projects** submitted across **multiple hackathons** (online and in-person)
+- 🥈 **X Hackathons Level 2**: submitted separate projects to separate hackathons
+- 🔀 **Dual Boot**: competed in both in-person and online hackathons
+- 🧭 **Generalist**: submitted to hackathons with 3 different themes
+- 🎯 First in-person hackathon · First online hackathon
+
+👉 [View all achievements on Devpost](https://devpost.com/ayemenbaig26/achievements)
+
+---
 
 ## Currently Learning
 
