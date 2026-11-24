@@ -1,76 +1,22 @@
-# Hi, I'm Aymen Baig 👋
+# Aymen Baig
 
-**I build AI-powered tools that help businesses search, understand, and act on their own data** — chatbots, semantic search, and document intelligence systems, backed by solid full-stack engineering underneath.
+Software engineer in Lahore building data pipelines and applied AI systems: agents, RAG, and the evaluation and testing that keep them honest.
 
-📍 Based in Pakistan · Open to freelance & contract work
-💼 [LinkedIn](https://www.linkedin.com/in/aymen016) · 📧 ayemenbaig26@gmail.com
+## Featured work
 
----
+- **[Support-Triage-Agent](https://github.com/Aymen016/Support-Triage-Agent)**: classifies, researches and drafts replies to support email, with a human approval gate and 68 backend tests.
+- **[Voice-Rag-Agent (Nova)](https://github.com/Aymen016/Voice-Rag-Agent)**: voice-to-voice support agent with grounded citations. Semantic search hit@1 of 0.93 vs 0.33 for a keyword baseline.
+- **[Rag-Document-Search-System](https://github.com/Aymen016/Rag-Document-Search-System)**: hybrid BM25 + vector retrieval, cross-encoder reranking and citation checks over messy technical docs.
+- **[Gesteroic](https://github.com/Aymen016/Gesteroic)**: e-learning platform teaching Pakistan Sign Language to the deaf community.
 
-## What I Do
+## Also
 
-I work across the full stack, but the throughline is **turning unstructured or messy data into something people can actually use** — whether that's a chatbot answering questions from a document set, a dashboard surfacing trends from raw data, or a backend that ties a bunch of moving parts together reliably.
+[llm-data-quality-checker](https://github.com/Aymen016/llm-data-quality-checker) · [job-market-intelligence](https://github.com/Aymen016/job-market-intelligence) · [Voice-Note-Summarizer](https://github.com/Aymen016/Voice-Note-Summarizer)
 
-- 🤖 **AI & LLM applications** — RAG systems, semantic search, chatbots grounded in real data (not just prompting a model and hoping)
-- 🔧 **Full-stack development** — Flask, FastAPI, and clean backend architecture
-- 📊 **Data analysis & dashboards** — turning raw operational data into decisions
-- 🧩 **Practical engineering** — I care more about whether something works reliably on real data than whether the demo looks flashy
+## Working on
 
----
+Publishing evaluation results for the RAG projects, and adding CI across my repos.
 
-## Featured Projects
+## Contact
 
-### 🩺 [Medical Chatbot](https://github.com/Aymen016/Medical-Chatbot)
-AI assistant that answers medical questions using semantic vector search over a document knowledge base (Pinecone + NLP). Built to retrieve relevant information rather than rely on the model's raw memory — grounded answers, not guesses.
-
-### 🧠 [RAG Document Search System](https://github.com/Aymen016/Rag-Document-Search-System) 
-A chat interface for querying messy real-world technical documentation — mixed PDFs, markdown, and wikis — with source citations on every answer and a custom evaluation suite to measure retrieval and answer accuracy.
-
-### 📈 [Booking Trends Dashboard](https://github.com/Aymen016/Booking-Trends-Dashboard)
-Interactive Power BI dashboard analyzing hotel booking patterns, cancellations, and guest behavior from raw operational data — Python + Pandas for the data pipeline underneath.
-
-### 🎬 [Film Recommendation Engine](https://github.com/Aymen016/Film-recommendation-engine)
-A recommendation system with a working backend, built to surface personalized results from user preference data.
-
-### 🤟 [Gesteroic](https://github.com/Aymen016/Gesteroic)
-E-learning platform teaching Pakistan Sign Language through video lectures, quizzes, and progress tracking — full product build, not just a script.
-
----
-
-## Tech Stack
-
-**Languages:** Python · JavaScript · PHP · Java
-**AI/ML:** Pinecone · Scikit-learn · TensorFlow · OpenCV · LLM prompt engineering
-**Backend:** Flask · FastAPI
-**Data:** Pandas · NumPy · Power BI
-**Other:** Git · MySQL · MongoDB
-
----
-## 🏆 Hackathons & Achievements
-
-[![Devpost](https://img.shields.io/badge/Devpost-ayemenbaig26-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/ayemenbaig26)
-
-- **3 projects** submitted across **multiple hackathons** (online and in-person)
-- 🥈 **X Hackathons Level 2**: submitted separate projects to separate hackathons
-- 🔀 **Dual Boot**: competed in both in-person and online hackathons
-- 🧭 **Generalist**: submitted to hackathons with 3 different themes
-- 🎯 First in-person hackathon · First online hackathon
-
-👉 [View all achievements on Devpost](https://devpost.com/ayemenbaig26/achievements)
-
----
-
-## Currently Learning
-
-- Advanced RAG architecture & retrieval evaluation
-- Agentic workflows and tool-calling with LLMs
-- CI/CD pipelines with GitHub Actions
-- Real-time APIs & WebSocket integrations
-
----
-
-## Let's Work Together
-
-If you've got messy data, documents, or workflows that need an AI layer on top — I'd like to hear about it. Open to freelance projects and collaborations.
-
-⭐ If any of this is useful to you, a star or a follow is appreciated.
+[LinkedIn](https://linkedin.com/in/aymen-baig) · [Portfolio](https://aymen016.github.io/) · ayemenbaig26@gmail.com
